@@ -38,6 +38,9 @@
 <br/>
 </p>
 
+<a href="https://github.com/heitor-jsr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitor-jsr&theme=dracula&show_icons=true" />
+</a>
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
