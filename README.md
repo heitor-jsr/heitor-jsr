@@ -49,4 +49,7 @@
 
   <a href="https://www.instagram.com/heitorscalonn/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/heitorscalonn/"/></a>
+   
+  [![Gmail Badge](https://img.shields.io/badge/-heitorscalon@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heitorscalon@gmail.com)](mailto:heitorscalon@gmail.com)
+
 </p>
