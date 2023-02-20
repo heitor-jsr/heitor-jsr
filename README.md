@@ -43,7 +43,7 @@
 </a>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  Meus contatos: ⤵️
 </p>
 
 <p align="left">
